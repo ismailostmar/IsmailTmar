@@ -16,6 +16,8 @@ I've been started learning how to code when i was 18 yrs old , i love How techno
 src="https://img.shields.io/twitter/follow/IsmailTmar?logo=twitter&style=for-the-badge&color=f97316&labelColor=0f172a"
 /></a>
 
+<a href="https://app.daily.dev/ismailTM"><img src="https://api.daily.dev/devcards/663e15a61ba147c9a74976fc9bec5f29.png?r=7nl" width="400" alt="DEVGEEKTM's Dev Card"/></a>
+
 ### Skills
 
 <p align="left">
