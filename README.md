@@ -11,7 +11,7 @@ I've been started learning how to code when i was 18 yrs old , i love How techno
 * ✉️  You can contact me at [ismail.tmar@gmail.com](mailto:ismail.tmar@gmail.com)
 * 🧠  I'm learning React Js
 * 🤝  I'm open to collaborating on Web, Mobile, Robotic Process Automation Development. Consulting IT Industry, Agricultural research and Finance technology.
-* ⚡  I'm a PUBG Mobile and COD Warzone player too.
+* ⚡  I'm a COD Warzone player too if you wanna to join me , try my Discord Link shared on Linkedin.
 
 <a href="https://www.twitter.com/IsmailTmar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/IsmailTmar?logo=twitter&style=for-the-badge&color=f97316&labelColor=0f172a"
